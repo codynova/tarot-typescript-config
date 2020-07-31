@@ -1,0 +1,13 @@
+{
+  "name": "tarot-typescript-config",
+  "version": "0.0.1",
+  "description": "Default TypeScript configuration for Tarot https://github.com/codynova/tarot",
+  "main": "index.js",
+  "repository": "https://github.com/codynova/tarot-typescript-config",
+  "author": "Cody Nova",
+  "license": "MIT",
+  "private": false,
+  "peerDependencies": {
+    "typescript": ">=3.9.7"
+  }
+}
