@@ -1,6 +1,6 @@
 {
   "name": "tarot-typescript-config",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Default TypeScript configuration for Tarot https://github.com/codynova/tarot",
   "main": "tsconfig.json",
   "repository": "https://github.com/codynova/tarot-typescript-config",
